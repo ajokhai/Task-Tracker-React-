@@ -92,6 +92,9 @@ body {
   margin: 5px;
   padding: 3px 7px;
   font-size: 17px;
+  border-radius: 3px;
+  background: #ffffff;
+  border: 0.5px solid rgba(0, 0, 0, 0.25);
 }
 
 .form-control-check {
